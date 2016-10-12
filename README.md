@@ -1,0 +1,2 @@
+# Huffmann
+Praktikum in Informationstheorie
